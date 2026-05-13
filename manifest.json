@@ -1,0 +1,20 @@
+{
+  "name": "RPF Criminal Album",
+  "short_name": "Criminal Album",
+  "description": "RPF Chennai Division Criminal Album and Face Recognition Search System",
+  "start_url": "https://script.google.com/macros/s/AKfycbzhfD0mHkA6ea_Ig8bnSy0pOLVBy9Pd9kEhRyrniGZ4RTfljm2ooYlw_rHGICpJM44O/exec",
+  "display": "standalone",
+  "background_color": "#002d5a",
+  "theme_color": "#002d5a",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://drive.google.com/thumbnail?id=1o4zqc1ugVbEifzqj4qdb7Xu2CLTgOFYt&sz=w512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
